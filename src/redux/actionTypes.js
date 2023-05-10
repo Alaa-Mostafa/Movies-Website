@@ -1,0 +1,1 @@
+export const GET_ALL_MOVIES = "Get_All_Movies";
